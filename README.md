@@ -32,7 +32,7 @@ I work where **technology, business, and user experience intersect** - combining
 
 | Project | Description | Stack |
 |----------|--------------|-------|
-| [**LEM-BOX**]([https://github.com/softbmllc/lem-box](https://github.com/softbmllc/lem-box-uy) | Logistics & automation system connecting e-commerce and cloud shipping. | React · Node.js · Firebase · Cloud Functions |
+| [**LEM-BOX**](https://github.com/softbmllc/lem-box-uy) | Logistics & automation system connecting e-commerce and cloud shipping. | React · Node.js · Firebase · Cloud Functions |
 | [**Esteban Firpo**](https://github.com/softbmllc/estebanfirpo-web) | Personal brand website with optimized performance and modern UX. | Next.js · TailwindCSS · SEO |
 | [**DevRodri Portfolio**](https://github.com/softbmllc/devrodri) | My personal site and brand identity hub. | React · TypeScript · TailwindCSS |
 
