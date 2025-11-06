@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/softbmllc/softbmllc/blob/main/Untitled%20design%20(5).png?raw=true" alt="DevRodri Banner" width="100%" />
+  <img src="https://github.com/softbmllc/softbmllc/blob/main/Untitled%20design%20(4).png?raw=true" alt="DevRodri Banner" width="100%" />
 </p>
 
 ---
