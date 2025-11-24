@@ -11,7 +11,7 @@
 
 ### 🧠 About Me  
 Full-Stack Developer with a **product-driven mindset**, integrating design, UX, and business logic to build scalable, purposeful solutions.  
-I work where **technology, business, and user experience intersect** - combining frontend craft, backend architecture, and cloud automation.  
+I work where **technology, business, and user experience intersect** – combining frontend craft, backend architecture, and cloud automation.
 
 💡 **Core strengths:**  
 - React, Next.js, TailwindCSS, Node.js, Firebase, Docker  
@@ -31,7 +31,8 @@ I work where **technology, business, and user experience intersect** - combining
 ### 🚀 Featured Projects  
 
 | Project | Description | Stack |
-|----------|--------------|-------|
+|--------|-------------|--------|
+| [**Mutter Games**](https://github.com/devrodri-com/mutter-games-dev) | Full e-commerce ecosystem: dynamic catalog, persistent cart, Mercado Pago checkout, secure admin panel, and backend API with Firebase Admin. | React · Vite · TypeScript · Firebase · Admin SDK · Playwright · Vitest |
 | [**LEM-BOX**](https://github.com/softbmllc/lem-box-uy) | Logistics & automation system connecting e-commerce and cloud shipping. | React · Node.js · Firebase · Cloud Functions |
 | [**Esteban Firpo**](https://github.com/softbmllc/estebanfirpo-web) | Personal brand website with optimized performance and modern UX. | Next.js · TailwindCSS · SEO |
 | [**DevRodri Portfolio**](https://github.com/softbmllc/devrodri) | My personal site and brand identity hub. | React · TypeScript · TailwindCSS |
@@ -66,4 +67,3 @@ I work where **technology, business, and user experience intersect** - combining
 
 > _“Integrating technology with a product mindset.”_  
 > **Rodrigo Opalo · DevRodri**
-
