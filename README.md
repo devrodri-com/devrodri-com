@@ -60,15 +60,22 @@ I work where **technology, business, and user experience intersect** – combini
 ### 📊 GitHub Stats  
 <p align="center">
 
-  <!-- Tarjeta principal (rank, íconos, sin errores) -->
+  <!-- Stats principal (rank, íconos, etc.) -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=devrodri-com&show_icons=true&rank_icon=github&hide_border=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devrodri-com&show_icons=true&rank_icon=github&hide_border=true"
     height="150"
   />
+
 
   <!-- Lenguajes -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrodri-com&layout=compact&hide_border=true&langs_count=8"
+    height="150"
+  />
+
+  <!-- Streak Stats -->
+  <img
+    src="https://streak-stats.demolab.com?user=devrodri-com&theme=default&hide_border=true"
     height="150"
   />
 
