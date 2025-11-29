@@ -59,9 +59,21 @@ I work where **technology, business, and user experience intersect** – combini
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devrodri-com&show_icons=true&theme=default&hide_title=true&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrodri-com&layout=compact&hide_border=true&langs_count=8" height="150" />
+
+  <!-- Tarjeta principal (rank, íconos, sin errores) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=devrodri-com&show_icons=true&rank_icon=github&hide_border=true"
+    height="150"
+  />
+
+  <!-- Lenguajes -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrodri-com&layout=compact&hide_border=true&langs_count=8"
+    height="150"
+  />
+
 </p>
+
 
 ---
 
