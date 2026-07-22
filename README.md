@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/devrodri-profile-banner.png" alt="Abstract connected systems banner for DevRodri" width="100%" />
+  <img src="./Untitled%20design%20(4).png" alt="DevRodri logo banner" width="100%" />
 </p>
 
 <h1 align="center">Rodrigo Opalo · DevRodri</h1>
@@ -54,7 +54,11 @@ The code may stay private; the engineering principles do not: clear boundaries, 
 3. **Ship** — design, build, integrate, test, secure, and deploy the smallest complete solution.
 4. **Operate** — monitor real behavior, harden weak points, automate repetition, and iterate with evidence.
 
-## Toolbox
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,firebase,vercel,gcp,docker,python,git,github,figma,vscode,vitest,playwright&theme=light" alt="React, Next.js, TypeScript, Tailwind CSS, Node.js, Firebase, Vercel, Google Cloud, Docker, Python, Git, GitHub, Figma, VS Code, Vitest, and Playwright" />
+</p>
 
 | Area | Technologies and practices |
 |---|---|
@@ -63,6 +67,18 @@ The code may stay private; the engineering principles do not: clear boundaries, 
 | **Automation and AI** | OpenAI APIs, MCP, n8n, Telegram bots, scheduled jobs, webhooks, structured outputs |
 | **Commerce and media** | Mercado Pago, Stripe, ImageKit, Cloudinary |
 | **Delivery and quality** | Vercel, GCP, Docker, GitHub Actions, Vitest, Playwright, security rules, monitoring |
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devrodri-com&theme=github_dark" alt="DevRodri GitHub contribution summary" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=devrodri-com&theme=github-dark-blue&hide_border=true" alt="DevRodri GitHub contribution streak" height="170" />
+</p>
+
+<p align="center"><sub>Public GitHub activity only; private client work is not fully represented.</sub></p>
 
 <details>
   <summary><strong>Resumen en español</strong></summary>
