@@ -1,88 +1,83 @@
 <p align="center">
-  <img src="https://github.com/softbmllc/softbmllc/blob/main/Untitled%20design%20(4).png?raw=true" alt="DevRodri Banner" width="100%" />
+  <img src="./assets/devrodri-profile-banner.png" alt="Abstract connected systems banner for DevRodri" width="100%" />
 </p>
 
----
+<h1 align="center">Rodrigo Opalo · DevRodri</h1>
 
-### 👋 Hi, I'm Rodrigo Opalo · DevRodri  
-#### *Integrating technology with a product mindset · Integro tecnología con mentalidad de producto*
-
----
-
-### 🧠 About Me  
-Full-Stack Developer with a **product-driven mindset**, integrating design, UX, and business logic to build scalable, purposeful solutions.  
-I work where **technology, business, and user experience intersect** – combining frontend craft, backend architecture, and cloud automation.
-
-💡 **Core strengths:**  
-- React, Next.js, TailwindCSS, Node.js, Firebase, Docker  
-- Cloud integrations & automation (IBM Cloud, Vercel, GCP)  
-- CI/CD pipelines, SaaS, and API-driven architectures  
-- UX-focused design with measurable business outcomes  
-
----
-
-### 🧰 Tech Stack  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,firebase,docker,python,git,github,figma,vscode&theme=light" />
-</p>
-
----
-
-### 🚀 Featured Projects  
-
-| Project | Description | Stack |
-|--------|-------------|--------|
-| [**Mutter Games**](https://github.com/devrodri-com/mutter-games-dev) | Full e-commerce ecosystem: dynamic catalog, persistent cart, Mercado Pago checkout, secure admin panel, and backend API with Firebase Admin. | React · Vite · TypeScript · Firebase · Admin SDK · Playwright · Vitest |
-| [**LEM-BOX**](https://github.com/softbmllc/lem-box-uy) | Logistics & automation system connecting e-commerce and cloud shipping. | React · Node.js · Firebase · Cloud Functions |
-| [**Esteban Firpo**](https://github.com/softbmllc/estebanfirpo-web) | Personal brand website with optimized performance and modern UX. | Next.js · TailwindCSS · SEO |
-| [**DevRodri Portfolio**](https://github.com/softbmllc/devrodri) | My personal site and brand identity hub. | React · TypeScript · TailwindCSS |
-
----
-
-### 🌐 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/rodrigo-opalo-b56685390/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/devrodri.web/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-3B82F6?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.devrodri.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-0F0F0F?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="mailto:r.opalo@icloud.com">
-    <img src="https://img.shields.io/badge/Email-r.opalo@icloud.com-0F0F0F?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats  
 <p align="center">
-
-  <!-- Stats principal (rank, íconos, etc.) -->
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devrodri-com&show_icons=true&rank_icon=github&hide_border=true"
-    height="150"
-  />
-
-
-  <!-- Lenguajes -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrodri-com&layout=compact&hide_border=true&langs_count=8"
-    height="150"
-  />
-
-  <!-- Streak Stats -->
-  <img
-    src="https://streak-stats.demolab.com?user=devrodri-com&theme=default&hide_border=true"
-    height="150"
-  />
-
+  <strong>Product-minded Full-Stack Engineer · Automation & Applied AI</strong>
 </p>
 
+<p align="center">
+  I turn business operations into reliable digital products — from customer-facing experiences<br />
+  to secure admin systems, integrations, automated workflows, and production infrastructure.
+</p>
+
+<p align="center">
+  <a href="https://www.devrodri.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/rodrigo-opalo-b56685390/">LinkedIn</a> ·
+  <a href="mailto:r.opalo@icloud.com">Email</a>
+</p>
+
+<p align="center"><sub>Based in Miami, FL · Building for businesses across the US and Latin America</sub></p>
 
 ---
 
-> _“Integrating technology with a product mindset.”_  
-> **Rodrigo Opalo · DevRodri**
+## What I build
+
+- **Business platforms** — commerce, logistics, reservations, client portals, and internal operations.
+- **Automation and applied AI** — assistants, reporting, webhooks, MCP integrations, and workflow orchestration.
+- **Production systems** — secure APIs, authentication, role-based access, payments, cloud deployment, and monitoring.
+- **Product experiences** — responsive interfaces, multilingual content, technical SEO, accessibility, and conversion-focused UX.
+
+I work end to end: understanding the operation, shaping the product, designing the experience, building the system, and improving it after launch.
+
+## Selected work
+
+| Product | What I shipped | Explore |
+|---|---|---|
+| **Mutter Games** | Production commerce platform with a customer storefront, persistent cart, Mercado Pago checkout, Firebase security rules, automated tests, and an isolated role-protected Admin API. | [Live](https://muttergames.com) · [Frontend](https://github.com/devrodri-com/mutter-games-dev) · [Admin API](https://github.com/devrodri-com/mutter-games-admin-api) |
+| **LEM-BOX** | Multi-country digital experience for a logistics business, with localized customer journeys, reusable product architecture, and foundations for operational integrations. | [Uruguay](https://lem-box.com.uy) · [Argentina](https://lem-box.com.ar) · [Code](https://github.com/devrodri-com/lem-box-uy) |
+| **National Campground Reservations** | Multi-location reservation and operations demo supporting capacity-based and unit-based inventory, restricted admin roles, blocks, walk-ins, and reporting exports. | [Demo](https://reservas-campings-nacionales.vercel.app) · [Code](https://github.com/devrodri-com/reservas-campings-nacionales) |
+| **Esteban Firpo Real Estate** | Bilingual real-estate platform with structured project content, dynamic SEO and social metadata, filters, reusable publishing patterns, and lead-oriented UX. | [Live](https://estebanfirpo.com) · [Code](https://github.com/devrodri-com/estebanfirpo-web) |
+
+## Beyond the public repositories
+
+Much of my recent work is private by design. It includes AI-assisted operational reporting, finance and logistics assistants, read-only security monitoring, and internal automations connected to tools such as OpenAI, Telegram, GitHub, Vercel, Firebase/GCP, and payment APIs.
+
+The code may stay private; the engineering principles do not: clear boundaries, least-privilege access, observable workflows, intentional approvals, and maintainable systems.
+
+## How I work
+
+1. **Understand** — clarify the business outcome, users, constraints, and operational reality.
+2. **Shape** — define the product scope, flows, data model, architecture, and success criteria.
+3. **Ship** — design, build, integrate, test, secure, and deploy the smallest complete solution.
+4. **Operate** — monitor real behavior, harden weak points, automate repetition, and iterate with evidence.
+
+## Toolbox
+
+| Area | Technologies and practices |
+|---|---|
+| **Product and interface** | TypeScript, React, Next.js, Vite, Tailwind CSS, Figma, responsive UX, accessibility, i18n, SEO |
+| **Systems and data** | Node.js, Firebase Auth, Firestore, Firebase Admin, REST APIs, Zod, role-based access control |
+| **Automation and AI** | OpenAI APIs, MCP, n8n, Telegram bots, scheduled jobs, webhooks, structured outputs |
+| **Commerce and media** | Mercado Pago, Stripe, ImageKit, Cloudinary |
+| **Delivery and quality** | Vercel, GCP, Docker, GitHub Actions, Vitest, Playwright, security rules, monitoring |
+
+<details>
+  <summary><strong>Resumen en español</strong></summary>
+  <br />
+  Diseño y construyo productos digitales y sistemas internos orientados a resultados de negocio. Trabajo desde la definición del producto y la experiencia hasta las APIs, integraciones, seguridad, automatización, despliegue y operación.
+  <br /><br />
+  Mi foco actual combina plataformas web, herramientas operativas, automatización e inteligencia artificial aplicada para reducir trabajo manual y convertir procesos frágiles en sistemas claros, medibles y mantenibles.
+</details>
+
+## Let's build something useful
+
+If you are building a business platform, modernizing an operation, or replacing a fragile manual workflow, I would be glad to hear about it.
+
+**[Visit devrodri.com](https://www.devrodri.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/rodrigo-opalo-b56685390/)** · **[Send an email](mailto:r.opalo@icloud.com)**
+
+---
+
+<p align="center"><em>Integrating technology with a product mindset.</em></p>
