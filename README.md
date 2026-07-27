@@ -71,10 +71,10 @@ The code may stay private; the engineering principles do not: clear boundaries, 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devrodri-com&theme=github_dark" alt="DevRodri GitHub contribution summary" width="100%" />
+  <img src="./assets/github-stats.svg" alt="DevRodri GitHub activity snapshot" width="100%" />
 </p>
 
-<p align="center"><sub>Public GitHub activity only; private client work is not fully represented.</sub></p>
+<p align="center"><sub>GitHub activity snapshot; private client work is not fully represented.</sub></p>
 
 <details>
   <summary><strong>Resumen en español</strong></summary>
