@@ -74,10 +74,6 @@ The code may stay private; the engineering principles do not: clear boundaries, 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devrodri-com&theme=github_dark" alt="DevRodri GitHub contribution summary" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=devrodri-com&theme=github-dark-blue&hide_border=true" alt="DevRodri GitHub contribution streak" height="170" />
-</p>
-
 <p align="center"><sub>Public GitHub activity only; private client work is not fully represented.</sub></p>
 
 <details>
