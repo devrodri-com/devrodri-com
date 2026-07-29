@@ -41,6 +41,8 @@ I work end to end: understanding the operation, shaping the product, designing t
 | **Esteban Firpo Real Estate** | Bilingual real-estate platform for more than 40 Miami preconstruction projects, with reusable project publishing, optimized media, payment plans, project-level SEO and social metadata, WhatsApp and calendar integrations, and lead-oriented UX. | [Live](https://estebanfirpo.com) · [Code](https://github.com/devrodri-com/estebanfirpo-web) |
 | **Campground Reservations Platform** | Independent full-stack prototype modeling multi-location reservations, capacity- and unit-based inventory, availability, blocks, walk-ins, simulated payments, reporting exports, and role-protected administrative workflows. | [Demo](https://reservas-campings-nacionales.vercel.app) · [Code](https://github.com/devrodri-com/reservas-campings-nacionales) |
 
+**Explore the full case studies, technical decisions, and outcomes at [devrodri.com](https://www.devrodri.com).**
+
 ## Beyond the public repositories
 
 Much of my recent work is private by design. It includes AI-assisted operational reporting, finance and logistics assistants, read-only security monitoring, and internal automations connected to tools such as OpenAI, Telegram, GitHub, Vercel, Firebase/GCP, and payment APIs.
