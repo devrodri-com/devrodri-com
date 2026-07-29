@@ -32,14 +32,14 @@
 
 I work end to end: understanding the operation, shaping the product, designing the experience, building the system, and improving it after launch.
 
-## Selected work
+## Selected products & case studies
 
-| Product | What I shipped | Explore |
+| Product | Scope and outcome | Explore |
 |---|---|---|
-| **Mutter Games** | Production commerce platform with a customer storefront, persistent cart, Mercado Pago checkout, Firebase security rules, automated tests, and an isolated role-protected Admin API. | [Live](https://muttergames.com) · [Frontend](https://github.com/devrodri-com/mutter-games-dev) · [Admin API](https://github.com/devrodri-com/mutter-games-admin-api) |
-| **LEM-BOX** | Multi-country digital experience for a logistics business, with localized customer journeys, reusable product architecture, and foundations for operational integrations. | [Uruguay](https://lem-box.com.uy) · [Argentina](https://lem-box.com.ar) · [Code](https://github.com/devrodri-com/lem-box-uy) |
-| **National Campground Reservations** | Multi-location reservation and operations demo supporting capacity-based and unit-based inventory, restricted admin roles, blocks, walk-ins, and reporting exports. | [Demo](https://reservas-campings-nacionales.vercel.app) · [Code](https://github.com/devrodri-com/reservas-campings-nacionales) |
-| **Esteban Firpo Real Estate** | Bilingual real-estate platform with structured project content, dynamic SEO and social metadata, filters, reusable publishing patterns, and lead-oriented UX. | [Live](https://estebanfirpo.com) · [Code](https://github.com/devrodri-com/estebanfirpo-web) |
+| **LEM-BOX** | Founder-led logistics product operating across the US, Uruguay, and Argentina. I designed and built its localized commercial experiences and role-based operational platform for reception, inventory, consolidation, shipments, tracking, payments, and day-to-day business workflows. | [Uruguay](https://lem-box.com.uy) · [Argentina](https://lem-box.com.ar) · [Code](https://github.com/devrodri-com/lem-box-uy) |
+| **Mutter Games** | End-to-end commerce system with a dynamic catalog, persistent cart, Mercado Pago checkout, optimized media, Firebase authentication and security rules, automated testing, and an isolated Admin API with role-protected operational workflows. | [Live](https://muttergames.com) · [Frontend](https://github.com/devrodri-com/mutter-games-dev) · [Admin API](https://github.com/devrodri-com/mutter-games-admin-api) |
+| **Esteban Firpo Real Estate** | Bilingual real-estate platform for more than 40 Miami preconstruction projects, with reusable project publishing, optimized media, payment plans, project-level SEO and social metadata, WhatsApp and calendar integrations, and lead-oriented UX. | [Live](https://estebanfirpo.com) · [Code](https://github.com/devrodri-com/estebanfirpo-web) |
+| **Campground Reservations Platform** | Independent full-stack prototype modeling multi-location reservations, capacity- and unit-based inventory, availability, blocks, walk-ins, simulated payments, reporting exports, and role-protected administrative workflows. | [Demo](https://reservas-campings-nacionales.vercel.app) · [Code](https://github.com/devrodri-com/reservas-campings-nacionales) |
 
 ## Beyond the public repositories
 
