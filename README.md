@@ -76,7 +76,7 @@ The code may stay private; the engineering principles do not: clear boundaries, 
   <img src="./assets/github-stats.svg" alt="DevRodri GitHub activity snapshot" width="100%" />
 </p>
 
-<p align="center"><sub>GitHub activity snapshot; private client work is not fully represented.</sub></p>
+<p align="center"><sub>Automatically refreshed daily from GitHub; private client work may not be fully represented.</sub></p>
 
 <details>
   <summary><strong>Resumen en español</strong></summary>
