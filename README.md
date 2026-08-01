@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/devrodri-logo-banner.png" alt="DevRodri logo banner" width="100%" />
+  <img src="./assets/devrodri-services-banner.png" alt="DevRodri — Websites, Custom Software, Integrations, and Automation" width="100%" />
 </p>
 
 <h1 align="center">Rodrigo Opalo · DevRodri</h1>
